@@ -1,0 +1,12 @@
+[03-Dec-2018 11:42:51 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/user7946/primat311.ru/php/tag_edit.php on line 3
+[03-Dec-2018 11:42:51 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/user7946/primat311.ru/php/tag_edit.php on line 3
+[03-Dec-2018 11:42:51 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/user7946/primat311.ru/php/tag_edit.php on line 6
+[03-Dec-2018 11:43:01 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/user7946/primat311.ru/php/tag_edit.php on line 3
+[03-Dec-2018 11:43:01 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/user7946/primat311.ru/php/tag_edit.php on line 3
+[03-Dec-2018 11:43:01 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/user7946/primat311.ru/php/tag_edit.php on line 6
+[03-Dec-2018 11:48:54 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/user7946/primat311.ru/php/tag_edit.php on line 3
+[03-Dec-2018 11:48:54 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/user7946/primat311.ru/php/tag_edit.php on line 3
+[03-Dec-2018 11:48:54 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/user7946/primat311.ru/php/tag_edit.php on line 6
+[03-Dec-2018 11:49:10 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/user7946/primat311.ru/php/tag_edit.php on line 3
+[03-Dec-2018 11:49:10 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/user7946/primat311.ru/php/tag_edit.php on line 3
+[03-Dec-2018 11:49:10 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/user7946/primat311.ru/php/tag_edit.php on line 6
