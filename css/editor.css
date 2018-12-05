@@ -1,0 +1,51 @@
+.title {
+    margin-left: 15px;
+}
+
+#tags-del{
+    padding: 20px;
+    margin: 10px;
+    border: 1px solid #999;
+    border-radius: 5px;
+}
+
+#tags-edit{
+    padding: 20px;
+    margin: 10px;
+    border: 1px solid #999;
+    border-radius: 5px;
+}
+
+
+.tag {
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    margin: 2px;
+}
+
+.button {
+    padding: 5px;
+    border: 1px solid #999;
+    border-radius: 5px;
+    background-color: #ccc;
+    color: #f00;
+    width: 328px;
+    margin: auto;
+
+}
+
+.button a {
+    text-decoration: none;
+}
+
+input {
+    width: 120px;
+}
+
+.ok-button {
+    width: 21px;
+    height: 21px;
+    display: inline-block;
+    vertical-align: bottom;
+}

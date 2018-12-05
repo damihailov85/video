@@ -1,0 +1,26 @@
+#header {
+    width: 80%;
+    margin: auto;
+    margin-top: 20px;
+    border: 1px solid #999;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    margin-bottom: 50px;
+}
+
+.col {
+    margin: 10px;
+}
+
+
+.title {
+    font-size: 12pt;
+    text-align: center;
+}
+.subtitle {
+    font-size: 8pt;
+}

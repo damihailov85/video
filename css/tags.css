@@ -1,0 +1,22 @@
+.list {
+    width: 80%;
+    margin: 10%;
+}
+
+.tag {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 15pt;
+    border: 1px solid #333;
+    border-radius: 6px;
+    display: inline-block;
+    padding: 3px;
+    margin: 3px;
+    cursor: pointer;
+}
+
+.tag-sel {
+    color: #fff;
+    border: 1px solid #333;
+    border-radius: 3px;
+    background-color: #333;
+}
